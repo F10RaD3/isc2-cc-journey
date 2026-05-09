@@ -40,6 +40,8 @@ I’m currently building foundational knowledge in:
 ## Documentation
 
 My detailed study documentation is available on GitBook.
+📚 GitBook Notes:
+[View My Documentation](https://floyd-ann-or-cybersecurity-journ.gitbook.io/floyd-ann-or-cybersecurity-journey-docs/bsZFRU3WjYz8clALXByb/)
 
 ---
 
