@@ -22,8 +22,8 @@ I’m currently building foundational knowledge in:
 | Domain | Status |
 |---|---|
 | Security Principles | Completed |
-| BCDR & Incident Response | In Progress |
-| Access Control | Pending |
+| BCDR & Incident Response | Completed |
+| Access Control | In Progress... |
 | Network Security | Pending |
 | Security Operations | Pending |
 
@@ -41,7 +41,7 @@ I’m currently building foundational knowledge in:
 
 My detailed study documentation is available on GitBook.
 📚 GitBook Notes:
-[View My Documentation](https://floyd-ann-or-cybersecurity-journ.gitbook.io/floyd-ann-or-cybersecurity-journey-docs/bsZFRU3WjYz8clALXByb/)
+[View My Documentation](https://cyber-lightcycle.gitbook.io/f10rad3-cyber-lightcyclebase/isc2-cc)
 
 ---
 
