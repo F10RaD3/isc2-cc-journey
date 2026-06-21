@@ -41,7 +41,7 @@ I’m currently building foundational knowledge in:
 
 My detailed study documentation is available on GitBook.
 📚 GitBook Notes:
-[View My Documentation](https://cyber-lightcycle.gitbook.io/f10rad3-cyber-lightcyclebase/isc2-cc)
+[View My Documentation](https://cyber-lightcycle.gitbook.io/f10rad3-cyber-lightcyclebase/)
 
 ---
 
